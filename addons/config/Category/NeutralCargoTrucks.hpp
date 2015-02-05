@@ -1,35 +1,11 @@
 class Category_586 {
-	class Ural_CDF {
-		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
-	};
-	class Ural_TK_CIV_EP1 {
-		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
-	};
-	class Ural_UN_EP1 {
-		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
-	};
+	
 	class V3S_Open_TK_CIV_EP1 {
 		type = "trade_any_vehicle";
 		buy[] ={20000,"Coins"};
 		sell[] ={10000,"Coins"};
 	};
 	class V3S_Open_TK_EP1 {
-		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
-	};
-	class Kamaz {
-		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
-	};
-	class MTVR_DES_EP1 {
 		type = "trade_any_vehicle";
 		buy[] ={20000,"Coins"};
 		sell[] ={10000,"Coins"};
@@ -44,24 +20,49 @@ class Category_586 {
 		buy[] ={20000,"Coins"};
 		sell[] ={10000,"Coins"};
 	};
+	class KamazOpen_DZE {
+		type = "trade_any_vehicle";
+		buy[] ={30000,"Coins"};
+		sell[] ={15000,"Coins"};
+	};
+	class Kamaz {
+		type = "trade_any_vehicle";
+		buy[] ={30000,"Coins"};
+		sell[] ={15000,"Coins"};
+	};
+	class Ural_CDF {
+		type = "trade_any_vehicle";
+		buy[] ={40000,"Coins"};
+		sell[] ={20000,"Coins"};
+	};
+	class Ural_TK_CIV_EP1 {
+		type = "trade_any_vehicle";
+		buy[] ={40000,"Coins"};
+		sell[] ={20000,"Coins"};
+	};
+	class Ural_UN_EP1 {
+		type = "trade_any_vehicle";
+		buy[] ={40000,"Coins"};
+		sell[] ={20000,"Coins"};
+	};
 	class UralCivil_DZE {
 		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
+		buy[] ={40000,"Coins"};
+		sell[] ={20000,"Coins"};
 	};
 	class UralCivil2_DZE {
 		type = "trade_any_vehicle";
-		buy[] ={10000,"Coins"};
-		sell[] ={5000,"Coins"};
+		buy[] ={40000,"Coins"};
+		sell[] ={20000,"Coins"};
 	};
-	class KamazOpen_DZE {
+	class MTVR_DES_EP1 {
 		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
+		buy[] ={50000,"Coins"};
+		sell[] ={25000,"Coins"};
 	};
 	class MTVR {
 		type = "trade_any_vehicle";
-		buy[] ={20000,"Coins"};
-		sell[] ={10000,"Coins"};
+		buy[] ={50000,"Coins"};
+		sell[] ={25000,"Coins"};
 	};
 };

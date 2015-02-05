@@ -29,7 +29,7 @@ dayz_maxpos = 26000;
 //Epoch Config Variables
 call compile preprocessFileLineNumbers "config\epochconfig.sqf";	
 
-EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
+EpochEvents = [["any","any","any","any",0,"animated_crash_spawner"],["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"]];
 
 //Load in compiled functions
 call compile preprocessFileLineNumbers "addons\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)

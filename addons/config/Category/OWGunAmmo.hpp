@@ -9,11 +9,8 @@ class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {200,"Coins"};sell[] = {100
 class 20rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {200,"Coins"};sell[] = {100,"Coins"};};
 class FHQ_rem_30Rnd_680x43_ACR {type = "trade_items";buy[] = {150,"Coins"};sell[] = {75,"Coins"};};
 class FHQ_rem_30Rnd_680x43_ACR_SD {type = "trade_items";buy[] = {150,"Coins"};sell[] = {75,"Coins"};};
-class USSR_5Rnd_408 {type = "trade_items";buy[] = {4000,"Coins"};sell[] = {2000,"Coins"};};
 class FHQ_rem_20Rnd_762x51_PMAG_NT {type = "trade_items";buy[] = {200,"Coins"};sell[] = {100,"Coins"};};
 class FHQ_rem_20Rnd_762x51_PMAG_NT_SD {type = "trade_items";buy[] = {200,"Coins"};sell[] = {100,"Coins"};};
-class FHQ_rem_5Rnd_300Win_XM2010_NT {type = "trade_items";buy[] = {1000,"Coins"};sell[] = {500,"Coins"};};
-class FHQ_rem_5Rnd_300Win_XM2010_NT_SD {type = "trade_items";buy[] = {1000,"Coins"};sell[] = {500,"Coins"};};
 class FHQ_rem_7Rnd_338Lapua_MSR_NT {type = "trade_items";buy[] = {1000,"Coins"};sell[] = {500,"Coins"};};
 class FHQ_rem_7Rnd_338Lapua_MSR_NT_SD {type = "trade_items";buy[] = {1000,"Coins"};sell[] = {500,"Coins"};};
 class 10Rnd_762x54_SVD {type = "trade_items";buy[] = {200,"Coins"};sell[] = {100,"Coins"};};

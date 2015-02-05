@@ -37,7 +37,7 @@ class Category_627 {
 	class FHQ_XM2010_NV_DESERT {
 		type = "trade_weapons";
 		buy[] = {150000,"Coins"};
-		sell[] = {750000,"Coins"};
+		sell[] = {75000,"Coins"};
 	};
 	class FHQ_XM2010_NV_SD_DESERT {
 		type = "trade_weapons";
