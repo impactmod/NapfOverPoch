@@ -39,7 +39,7 @@ if (!isDedicated) then {
 	DZE_build_vector_file =         "addons\BuildVectors\build_vectors.sqf";
 	build_vectors =                 compile preprocessFileLineNumbers DZE_build_vector_file;
 	snap_build = 					compile preprocessFileLineNumbers "addons\snap_pro\snap_build.sqf";
-	MaintainPlot = 					compile preprocessFileLineNumbers "addons\plotManagement\maintain_area.sqf";
+	MaintainPlot = 					compile preprocessFileLineNumbers "addons\plotManagement\MaintainPlot.sqf";
 	PlotPreview = 					compile preprocessFileLineNumbers "addons\plotManagement\plotToggleMarkers.sqf";
 	PlotObjects = 					compile preprocessFileLineNumbers "addons\plotManagement\plotObjects.sqf";
 	PlotGetFriends = 				compile preprocessFileLineNumbers "addons\plotManagement\plotGetFriends.sqf";

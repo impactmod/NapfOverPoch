@@ -5,7 +5,7 @@ MaxVehicleLimit = 200;
 //Experimental feature that will parachute spawn all players into the game. (Default: false)
 dayz_paraSpawn = false;
 //Controls animal spawn limits (Default: 8)
-dayz_maxAnimals = 8;
+dayz_maxAnimals = 16;
 //Enables the ability to tame dogs with raw meat. (Default: false)
 dayz_tameDogs = true;
 //Sets the lowest possible damage a fresh spawned vehicle will have. (Default: 0)
@@ -28,7 +28,7 @@ dayz_sellDistance_air = 50;
 DZE_noRotate = ["ItemVault"]; //Objects that cannot be rotated. Ex: DZE_noRotate = ["ItemVault"] (NOTE: The objects magazine classname)
 DZE_vectorDegrees = [0.01, 0.1, 1, 5, 15, 45, 90];
 DZE_curDegree = 45; //Starting rotation angle. //Prefered any value in array above
-DZE_dirWithDegrees = true; //When rotating objects with Q&E, use the custom degrees
+DZE_dirWithDegrees = false; //When rotating objects with Q&E, use the custom degrees
 DZE_BuildOnRoads = false;
 // Custom Mission Loot Table (Default: false)
 DZE_MissionLootTable = true;
@@ -37,9 +37,9 @@ DZE_HeliLift = false;
 //Enables Trader config (.sqf file)
 DZE_ConfigTrader = true;
 //Change the number of constructed objects within range of a 30m Plot Pole. (default=150). Be very carefull with this number, as setting it too high will cause a huge amount of local lag**
-DZE_BuildingLimit = 150; 
+DZE_BuildingLimit = 500; 
 //Non destructable bases
-DZE_GodModeBase = false;
+DZE_GodModeBase = true;
 //Enable Self BB
 DZE_SelfTransfuse = true;
 DZE_selfTransfuse_Values = [6000, 20, 90]; // [blood, Infiction change 1 out of 20, Time before new BB]

@@ -39,7 +39,8 @@ class Mission
 		"gsc_units_stalker_patch",
 		"nissan_350z",
 		"monaro",
-		"ussr_cheytac"
+		"ussr_cheytac",
+		"american_law_enforcement"
 	};
 	addOnsAuto[]=
 	{
